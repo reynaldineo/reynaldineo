@@ -1,38 +1,75 @@
-<h1 align="center">Hi 👋, I'm Reynaldi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h2 align="left">Hi 👋! My name is Reynaldi</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reynaldineo&label=Profile%20views&color=0e75b6&style=flat" alt="reynaldineo" /> </p>
-<img align="right" width="400" height="270" alt="GIF" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"><br>
+###
 
-- 🌱 I’m currently learning **C/C++, Javascript & Typescript**
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9xOGRxN2VqeDQ3NWtreXFzdmpsZmxqbXFlbWhmeXF0cmJpZHM5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gifhttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9xOGRxN2VqeDQ3NWtreXFzdmpsZmxqbXFlbWhmeXF0cmJpZHM5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-phi-sooty.vercel.app/](https://portfolio-nextjs-phi-sooty.vercel.app/)
+###
 
-- 📫 How to reach me **reynaldineoramahdani@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reynaldi-neo-ramadhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldi neo ramadhani" height="30" width="40" /></a>
-<a href="https://instagram.com/rey.nal.di" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rey.nal.di" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">Languages and Tools:</h3>
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
- 
-<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
-<img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img> <br/> <br/>
-
-<img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
-<img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
-
-<img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
-<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
-<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img><br/> <br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldineo&show_icons=true&locale=en&layout=compact" alt="reynaldineo" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynaldineo&show_icons=true&locale=en" alt="reynaldineo" /></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/reynaldi-neo-ramadhani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.instagram.com/reynaldineo_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldineo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&custom_title=Personal%20Repo%20Most%20Used%20Language" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=reynaldineo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=reynaldineo%20Personal%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=reynaldineo&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/reynaldineo/reynaldineo/output/snake.svg" alt="Snake animation" />
+
+###
